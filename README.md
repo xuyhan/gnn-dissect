@@ -8,9 +8,14 @@ Further analysis on the concepts of each dataset can be found in the notebooks i
 
 ```
 @article{xuanyuan2022global,
-  title={Global Concept-Based Interpretability for Graph Neural Networks via Neuron Analysis},
-  author={Xuanyuan, Han and Barbiero, Pietro and Georgiev, Dobrik and Magister, Lucie Charlotte and Li{\'o}, Pietro},
-  journal={arXiv preprint arXiv:2208.10609},
-  year={2022}
+  title={Global Concept-Based Interpretability for Graph Neural Networks via Neuron Analysis}, 
+  volume={37}, 
+  DOI={10.1609/aaai.v37i9.26267}, 
+  number={9}, 
+  journal={Proceedings of the AAAI Conference on Artificial Intelligence}, 
+  author={Xuanyuan, Han and Barbiero, Pietro and Georgiev, Dobrik and Magister, Lucie Charlotte and Liò, Pietro},
+  year={2023}, 
+  month={Jun.}, 
+  pages={10675-10683} 
 }
 ```
